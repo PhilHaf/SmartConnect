@@ -7,7 +7,7 @@ Tool to improve your node connection handling in Houdini.
 * if the the node has more input connections - by pressing your hotkey again it switches to the next input
 
 
-## Upcomin Features
+## Upcoming Features
 
 * improved VOP/Mat Node Handling
 * no destruction of already connected inputs
