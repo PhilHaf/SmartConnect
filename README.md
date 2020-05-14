@@ -6,6 +6,8 @@ Tool to improve your node connection handling in Houdini.
 * If the last selection was a multiple selection of 2 -> in connects the nodes based on its position
 * if the the node has more input connections - by pressing your hotkey again it switches to the next input
 
+Detailed description on medium:
+
 
 ## Upcoming Features
 
