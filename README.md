@@ -15,3 +15,4 @@ Tool to improve your node connection handling in Houdini.
 
 ## Thank You
 The tool is helpful and improves your workflow? then invite me for a coffee:
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BVTD4TBAZND2J&source=url)
