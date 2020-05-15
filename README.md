@@ -13,9 +13,9 @@ Detailed description on medium:
 
 * improved VOP/Mat Node Handling
 * no destruction of already connected inputs
-* if you have any ideas or improvements you are looking for - give me a comment
+* if you have any ideas or improvements you are looking for - give me a comment on the medium page
 * much more
 
 ## Thank You
-The tool is helpful and improves your workflow? then invite me for a coffee:
+The tool is helpful and improves your workflow, or you just want to show support? then invite me for a coffee:
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BVTD4TBAZND2J&source=url)
