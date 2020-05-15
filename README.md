@@ -14,6 +14,7 @@ Detailed description on medium:
 * improved VOP/Material Node Handling
 * no destruction of already connected inputs
 * multi input/output instant connection (vellum..)
+* smart connection by input/output naming
 * if you have any ideas or improvements you are looking for - give me a comment on the medium page
 * much more
 
