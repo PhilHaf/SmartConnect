@@ -11,7 +11,7 @@ Detailed description on medium:
 
 ## Upcoming Features
 
-* improved VOP/Mat Node Handling
+* improved VOP/Material Node Handling
 * no destruction of already connected inputs
 * if you have any ideas or improvements you are looking for - give me a comment on the medium page
 * much more
