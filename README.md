@@ -13,6 +13,7 @@ Detailed description on medium:
 
 * improved VOP/Mat Node Handling
 * no destruction of already connected inputs
+* if you have any ideas or improvements you are looking for - give me a comment
 * much more
 
 ## Thank You
